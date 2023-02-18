@@ -16,7 +16,7 @@ const Header = () => {
       <div className="app__header-info">
         <h1 className="app__header-info-h1-small">
           JAMES <br className="app__header-info-break-space" />
-          <span>JANAAAA</span>
+          <span>JANA</span>
         </h1>
         <p>
           STUNNING LIFE-LIKE PENCIL{" "}
