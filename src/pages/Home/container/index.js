@@ -1,0 +1,9 @@
+export { default as Header } from "./Header/Header";
+export { default as About } from "./About/About";
+export { default as Gallery } from "./Gallery/Gallery";
+export { default as Learn } from "./Learn/Learn";
+export { default as Intro } from "./Intro/Intro";
+export { default as Academy } from "./Academy/Academy";
+export { default as Services } from "./Services/Services";
+export { default as Instagram } from "./Instagram/Instagram";
+export { default as MediaQuotes } from "./MediaQuotes/MediaQuotes";
